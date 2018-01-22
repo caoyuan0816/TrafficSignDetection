@@ -1,4 +1,4 @@
-## Traffic Sign Detector (Yuan Cao, caoyuan0816@gmail.com)
+## Traffic Sign Detector -- Yuan Cao
 -----------------------------
 ### Introduction
 
@@ -6,6 +6,7 @@
 
 ### Cites
 
+### Running Data
 
 Total: 123, Correct: 51, Wrong: 72
 Ratio: 41.46
