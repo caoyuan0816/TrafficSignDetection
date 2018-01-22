@@ -1,5 +1,5 @@
 ## Traffic Sign Detector -- Yuan Cao
------------------------------
+
 ### Introduction
 
 ### Design
