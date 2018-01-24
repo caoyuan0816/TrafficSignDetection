@@ -1,4 +1,4 @@
-## Traffic Sign Detector -- Yuan Cao
+## Traffic Sign Detector
 
 ### Introduction
 
