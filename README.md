@@ -1,4 +1,5 @@
 ## Traffic Sign Detector
+That is a final project for UCI CS216.
 
 ### Data Set
 [German Traffic Sign Recognition Benchmark.](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
